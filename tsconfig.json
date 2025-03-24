@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "rootDir": "src",
+        "target":"ES2016",
+        "noEmitOnError": true,
+        "strict": true
+    },
+    "files": [
+        "src/monCv.ts"
+    ]
+}
