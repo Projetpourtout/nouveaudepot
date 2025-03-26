@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="cv">
          <div class="pour__header">
           <h1>${monCV.name}</h1>
-          <h2>${monCV.title}</h2>
+          <h2 "><a   href="about.html">${monCV.title}</a></h2>
           </div>
          
           <h3>Competences</h3>

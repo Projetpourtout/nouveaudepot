@@ -26,8 +26,8 @@ body {
   justify-content: space-around;
 }
 .cv .pour__header h2:hover {
-  border-bottom: 1px solid black;
-  color: rgb(45, 54, 8);
+  background-color: rgb(180, 214, 45);
+  color: black;
 }
 .cv h1 {
   font-size: 20px;
